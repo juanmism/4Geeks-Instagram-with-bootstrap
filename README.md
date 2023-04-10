@@ -1,26 +1,42 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) The Instagram Photo Feed (with Bootstrap)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+![screenshot](https://github.com/juanmism/4Geeks-Instagram-with-bootstrap/blob/main/instagram_bootstrap_screenshot.JPG)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
-
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+✏ *Create a website with **Bootstrap** similar to **./preview.gif***.
 
 ## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+📄 Running a web-server using the following command in the **Gitpod workspace** terminal to preview the project:
 
 ```sh
-$ pip3 install flask && python3 server.py
+pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## Sources 📌
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
+<https://learn.breatheco.de/course/full-stack.v4/1/p/instagram-feed-bootstrap>
+
+<https://github.com/breatheco-de/exercise-instagram-feed-bootstrap>
+
+<https://getbootstrap.com/>
+
+## Used Bootstrap components
+
+```text
+Buttons
+Cards
+Close button (in tooltips)
+Collapse
+Dropdowns
+Modal
+Navbar
+Toasts (switch pills - on hover )
+Tooltips (posts like button - on click)
 ```
+
+## Direct live demo 🎬
+
+<https://raw.githack.com/juanmism/4Geeks-Instagram-with-bootstrap/main/index.html>
+
+💻 _Juan Miguel Sáenz Martel_ (<https://github.com/m4n50n>)
+
